@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CKK.Logic",
-    "\\Corey's Knick Knacks\\obj",
-    "\\Corey's Knick Knacks\\obj\\Debug",
-    "\\Corey's Knick Knacks\\obj\\Debug\\net6.0"
+    "\\CKK.Logic.Models",
+    "\\CKK.Logic.Models\\Models"
   ],
-  "SelectedNode": "\\CKK.Logic\\Models",
+  "SelectedNode": "\\CKK.Logic.Models\\Models\\Store.cs",
   "PreviewInSolutionExplorer": false
 }
